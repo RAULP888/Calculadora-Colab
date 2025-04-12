@@ -16,4 +16,7 @@ Este proyecto es una calculadora básica desarrollada en colaboración.
 - Multiplicación
 - División
 
+# Calculadora Resta
+def resta(a, b):
+    return a - b
 
